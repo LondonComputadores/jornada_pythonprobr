@@ -25,7 +25,7 @@ SECRET_KEY = 'zf(ejtf8%^l-l$oius=2&+a%ko3i8+oab(4q=6jj6*c^v2a8me'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'quiz.base',
 ]
 
 MIDDLEWARE = [
