@@ -8,3 +8,10 @@
 
 # How it's being built?
 
+- 
+
+# Endpoints:
+
+- /admin
+- /perguntas/id
+- /end

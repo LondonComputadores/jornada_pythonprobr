@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import Pergunta
+from quiz.base.models import Pergunta
 
 
 def home(requisicao):

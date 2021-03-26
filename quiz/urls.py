@@ -22,5 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.home),
     path('end', views.end),
-    path('pergunta/<int:indice>/', views.perguntas),
+    path('perguntas/<int:indice>', views.perguntas),
 ]
