@@ -1,0 +1,9 @@
+ 1- Qual alternativa é usada para criar função em Python?
+
+"{'array':['func', 'def', 'funcao', 'function']}"
+
+-----------------------------------------------------------
+
+ 2- Como também é conhecido um arquivo de extensão .py?
+ 
+ "{'array':['lib', 'package', 'module', 'framework']}"
